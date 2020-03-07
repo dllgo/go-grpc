@@ -1,4 +1,4 @@
-module github.com/dllgo/go-grp
+module github.com/dllgo/go-grpc
 
 go 1.14
 
